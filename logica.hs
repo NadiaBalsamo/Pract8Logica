@@ -1,5 +1,5 @@
 nand:: Bool->Bool->Bool
-
+--something
 -- ---------------------------------------------------- 
 -- maj retorna True sii al menos 2 argumentos son True.
 -- ----------------------------------------------------
